@@ -13,8 +13,10 @@ Rstudio (optional) - https://rstudio.com/products/rstudio/
 Plugins:
 Template Matching and Slice Alignment - https://sites.google.com/site/qingzongtseng/template-matching-ij-plugin
 Morphological Operators for ImageJ - https://blog.bham.ac.uk/intellimic/g-landini-software/
+Macros:
+TookClassMacro
 
-Once you have installed all the programs/plugins you need to unzip the TCM.zip file in the ImageJ/macros folder.
+Once you have installed all the programs/plugins you need to unzip the TookClassMacro.zip file in the ImageJ/macros folder.
 If you already have a "Library.txt" file in your ImageJ macros folder just open that file and copy-paste the lines of the "TookClassMacro.txt" that start with "//Save the following functions in the Library.txt file located... from here -> ... to here <-" into a new line of the "Libary.txt" file and delete the slash and asterix of the start and finish of the command lines.
 To install the macro open ImageJ then open the tab Plugins->Macros->Install. Find the TookClassMacro.txt and click open.
 To run the macro open the tab Plugins->Macros->TookClassificationAndFluorescenceAnalysisMacro.
