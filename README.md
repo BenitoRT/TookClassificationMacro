@@ -21,7 +21,7 @@ If you already have a "Library.txt" file in your ImageJ macros folder just open 
 To install the macro open ImageJ then open the tab Plugins->Macros->Install. Find the TookClassMacro.txt and click open.
 To run the macro open the tab Plugins->Macros->TookClassificationAndFluorescenceAnalysisMacro.
 
-Optionally, you can create a custom button to by copy-pasting the lines that start with "//Save the following command in the StartupMacros.txt file located... from here-> ... to here <-" in a new line at the bottom of the StartupMacros.txt located in the ImageJ macros folder.
+Optionally, you can create a custom button to run the macro by copy-pasting the lines that start with "//Save the following command in the StartupMacros.txt file located... from here-> ... to here <-" in a new line at the bottom of the StartupMacros.txt located in the ImageJ macros folder. Delete the double slash at the line starting with "macro..."
 
 
 Usage.
